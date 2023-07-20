@@ -5,6 +5,7 @@
 
 body {
   height: 115vh;
+  font-family: url(https://kinsta.com/es/blog/mejores-google-fonts/#14-prompt);
   background: #ee9ca7;
   /* fallback for old browsers */
   background: -webkit-linear-gradient(to top, #ffdde1, #ee9ca7);
