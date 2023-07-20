@@ -13,11 +13,11 @@ body {
   /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Ope0ra 12+, Safari 7+ */ }
 
 header {
-  background-color: #e25e5e;
+  background-color: black;
   height: 15vh; }
 
 main {
-  height: 85vh; }
+  height: 95vh; }
   main .card:hover {
     opacity: 0.7; }
   main .card-text {
@@ -29,8 +29,9 @@ main {
 
 footer {
   height: 15vh;
-  width: 100% !important;
-  background-color: #ee9ca7; }
+  width: 100%;
+  background-color: black; }
   footer .footer-text {
     font-size: 12px;
-    margin-bottom: 0; }
+    margin-bottom: 0;
+    color: beige; }
